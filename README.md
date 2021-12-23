@@ -32,7 +32,7 @@ Resulting file structure:
   ┗ ...
 ```
 
-`Data.csv`:
+`data.csv`:
 
 ```txt
 name, id_name, id, data_value, image_path
