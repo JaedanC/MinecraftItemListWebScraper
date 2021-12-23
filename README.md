@@ -14,13 +14,13 @@ python minecraft_items.py <folder-to-save-images-to> <csv-file-name>
 
 This will download the images to the folder you specified, and write relevant metadata to the csv provided.
 
-For example:
+## Example Usage
 
 ```bash
 python minecraft_items.py img data.csv
 ```
 
-Result:
+Resulting file structure:
 
 ```txt
 📦MinecraftItemListWebScraper
@@ -32,7 +32,7 @@ Result:
   ┗ ...
 ```
 
-Data.csv:
+`Data.csv`:
 
 ```txt
 name, id_name, id, data_value, image_path
