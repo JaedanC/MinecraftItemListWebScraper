@@ -3,7 +3,7 @@
 To run, first ensure you have the BeautifulSoup module:
 
 ```bash
-pip install bs4
+pip install bs4 requests
 ```
 
 Then run,
